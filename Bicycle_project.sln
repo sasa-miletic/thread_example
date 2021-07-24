@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bicycle_project", "Bicycle_project\Bicycle_project.vcxproj", "{BCE1D773-0845-4BC4-80DC-B56BE60E3A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE1D773-0845-4BC4-80DC-B56BE60E3A84}.Debug|x64.ActiveCfg = Debug|x64
+		{BCE1D773-0845-4BC4-80DC-B56BE60E3A84}.Debug|x64.Build.0 = Debug|x64
+		{BCE1D773-0845-4BC4-80DC-B56BE60E3A84}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCE1D773-0845-4BC4-80DC-B56BE60E3A84}.Debug|x86.Build.0 = Debug|Win32
+		{BCE1D773-0845-4BC4-80DC-B56BE60E3A84}.Release|x64.ActiveCfg = Release|x64
+		{BCE1D773-0845-4BC4-80DC-B56BE60E3A84}.Release|x64.Build.0 = Release|x64
+		{BCE1D773-0845-4BC4-80DC-B56BE60E3A84}.Release|x86.ActiveCfg = Release|Win32
+		{BCE1D773-0845-4BC4-80DC-B56BE60E3A84}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25543351-DE4F-485A-9B29-67FFE73428E2}
+	EndGlobalSection
+EndGlobal
